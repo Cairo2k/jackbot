@@ -9,7 +9,7 @@ Bot Invite: https://discordapp.com/api/oauth2/authorize?client_id=43743997375152
 Latest Update Log:
 (v1.1.2)
 ```diff
-+ Added `!defeated`
-+ Added `!gtfo`
-+ Added `!savage`
++Added !defeated
++Added !gtfo
++Added !savage
 ```
