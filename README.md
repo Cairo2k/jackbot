@@ -7,9 +7,8 @@ For further information on the bot please invite it and type the `!info` command
 Bot Invite: https://discordapp.com/api/oauth2/authorize?client_id=437439973751521280&permissions=8&scope=bot
 
 Latest Update Log:
-(v1.1.2)
+(v1.1.3)
 ```diff
-+Added !defeated
-+Added !gtfo
-+Added !savage
++Added !murderer
++Added !crotch
 ```
